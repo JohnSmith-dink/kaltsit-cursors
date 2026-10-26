@@ -1,0 +1,4 @@
+# Preserve the original Windows resources byte for byte, including CP936/CRLF.
+assets/windows/* binary
+*.png binary
+*.gif binary

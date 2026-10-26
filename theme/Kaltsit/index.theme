@@ -1,0 +1,5 @@
+[Icon Theme]
+Name=Kaltsit
+Name[zh_CN]=凯尔希 · 思衡托
+Comment=Animated Kal'tsit cursors, adapted from the Windows theme
+Inherits=Adwaita,hicolor

@@ -1,0 +1,32 @@
+Licensing of kaltsit-cursors
+===========================
+
+Original cursor artwork
+-----------------------
+
+The original Windows artwork is "凯尔希 · 思衡托" by 一球咸鱼.
+The ANI resources in assets/windows, the converted Xcursor image data in
+theme/Kaltsit/cursors, and artwork in docs remain subject to the original
+creator's rights. Arknights character/IP rights remain with their respective
+rights holders. This is an unofficial fan adaptation.
+
+On 2026-10-24, the creator granted the project maintainer permission to
+submit a Linux adaptation to nixpkgs. The maintainer's request explicitly
+promised attribution, a link to the original work, and non-commercial use.
+The creator replied: "可以的，如果方便请在评论区也发一下".
+The maintainer agreed to share installation instructions and the project
+link in the original work's comments after submission; the creator agreed.
+See CREDITS.md for the source and permission context.
+
+This records a specific permission for this adaptation and its nixpkgs
+submission. It is not a grant of an MIT, GPL, Creative Commons, or other
+general-purpose free license for the artwork. It does not grant broader
+reuse, commercial use, or sublicensing rights. No general right to
+redistribute the unmodified Windows package is asserted here.
+
+Conversion and packaging code
+-----------------------------
+
+The new Python tools, tests, shell installer, Nix expressions, manifest and
+project documentation are licensed under the MIT License in LICENSE-MIT.
+That license does not cover the original artwork or its converted images.
