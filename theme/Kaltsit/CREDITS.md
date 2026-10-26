@@ -2,7 +2,7 @@
 
 - Original cursor artwork and Windows theme: **[一球咸鱼](https://space.bilibili.com/3585839)**.
 - Original work: **[明日方舟 I 凯尔希 · 思衡托 鼠标指针](https://www.bilibili.com/video/BV1L5Vq6vEaX/)**.
-- Linux adaptation and packaging project: [aknduan/kaltsit-cursors](https://github.com/aknduan/kaltsit-cursors).
+- Linux adaptation and packaging project: [JohnSmith-dink/kaltsit-cursors](https://github.com/JohnSmith-dink/kaltsit-cursors).
 - Arknights and Kal'tsit belong to their respective rights holders. This is an unofficial fan project.
 
 ## Permission record
